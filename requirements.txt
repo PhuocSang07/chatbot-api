@@ -1,0 +1,14 @@
+huggingface_hub==0.24.6
+torch==2.4.1
+langchain_huggingface==0.0.3
+langchain_community==0.2.16
+langchain_google_genai==1.0.10
+langchain_mongodb==0.1.9
+python-dotenv==1.0.1
+gradio==4.43.0
+transformers==4.44.2
+langchain==0.2.16
+pymongo==4.8.0
+sentence-transformers==3.0.1
+flask
+flask-cors

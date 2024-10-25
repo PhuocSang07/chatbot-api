@@ -1,0 +1,115 @@
+Trường THPT Ung Văn Khiêm
+DANH MỤC SÁCH  - TỔ HỢP 					
+NĂM HỌC: 2024 - 2025					
+
+1. Tổ hợp 1
+STT,TÊN SÁCH,TÊN BỘ SÁCH,ĐVT,ĐƠN GIÁ
+1,TOÁN 10: T1,Chân trời sáng tạo,Bản,19000
+2,TOÁN 10: T2,Chân trời sáng tạo,Bản,14000
+3,VĂN 10: T1,Chân trời sáng tạo,Bản,22000
+4,VĂN 10: T2,Chân trời sáng tạo,Bản,17000
+5,NGOẠI NGỮ 10 (Global Success),Bản,65000
+6,LỊCH SỬ 10,Chân trời sáng tạo,Bản,17000
+7,GDTC 10 : Cầu lông,Kết nối tri thức,Bản,13000
+8,GDQP-AN 10,Kết nối tri thức,Bản,13000
+9,LÝ 10,Chân trời sáng tạo,Bản,21000
+10,HÓA 10,Chân trời sáng tạo,Bản,18000
+11,TIN HỌC 10 (THUD),Kết nối tri thức,Bản,22000
+12,SINH 10,Cánh diều,Bản,28000
+13,TOÁN 10 (chuyên đề),Chân trời sáng tạo,Bản,10000
+14,LÝ 10 (chuyên đề),Chân trời sáng tạo,Bản,13000
+15,HÓA 10 (chuyên đề),Chân trời sáng tạo,Bản,11000
+
+
+2. Tổ hợp 2
+STT,TÊN SÁCH,TÊN BỘ SÁCH,ĐVT,ĐƠN GIÁ
+1,TOÁN 10: T1,Chân trời sáng tạo,Bản,19000
+2,TOÁN 10: T2,Chân trời sáng tạo,Bản,14000
+3,VĂN 10: T1,Chân trời sáng tạo,Bản,22000
+4,VĂN 10: T2,Chân trời sáng tạo,Bản,17000
+5,NGOẠI NGỮ 10 (Global Success),Bản,65000
+6,LỊCH SỬ 10,Chân trời sáng tạo,Bản,17000
+7,GDTC 10 : Cầu lông,Kết nối tri thức,Bản,13000
+8,GDQP-AN 10,Kết nối tri thức,Bản,13000
+9,LÝ 10,Chân trời sáng tạo,Bản,21000
+10,HÓA 10,Chân trời sáng tạo,Bản,18000
+11,TIN HỌC 10 (THUD),Kết nối tri thức,Bản,22000
+12,ĐỊA 10,Cánh diều,Bản,26000
+13,TOÁN 10 (chuyên đề),Chân trời sáng tạo,Bản,10000
+14,LÝ 10 (chuyên đề),Chân trời sáng tạo,Bản,13000
+15,HÓA 10 (chuyên đề),Chân trời sáng tạo,Bản,11000
+
+
+3. Tổ hợp 3
+STT,TÊN SÁCH,TÊN BỘ SÁCH,ĐVT,ĐƠN GIÁ
+1,TOÁN 10: T1,Chân trời sáng tạo,Bản,19000
+2,TOÁN 10: T2,Chân trời sáng tạo,Bản,14000
+3,VĂN 10: T1,Chân trời sáng tạo,Bản,22000
+4,VĂN 10: T2,Chân trời sáng tạo,Bản,17000
+5,NGOẠI NGỮ 10 (Global Success),Bản,65000
+6,LỊCH SỬ 10,Chân trời sáng tạo,Bản,17000
+7,GDTC 10 : Bóng đá,Kết nối tri thức,Bản,12000
+8,GDQP-AN 10,Kết nối tri thức,Bản,13000
+9,LÝ 10,Chân trời sáng tạo,Bản,21000
+10,HÓA 10,Chân trời sáng tạo,Bản,18000
+11,GDKT&PL 10,Chân trời sáng tạo,Bản,24000
+12,TIN HỌC 10 (THUD),Kết nối tri thức,Bản,22000
+13,TOÁN 10 (chuyên đề),Chân trời sáng tạo,Bản,10000
+14,LÝ 10 (chuyên đề),Chân trời sáng tạo,Bản,13000
+15,HÓA 10 (chuyên đề),Chân trời sáng tạo,Bản,11000
+
+4. Tổ hợp 4
+STT,TÊN SÁCH,TÊN BỘ SÁCH,ĐVT,ĐƠN GIÁ
+1,TOÁN 10: T1,Chân trời sáng tạo,Bản,19000
+2,TOÁN 10: T2,Chân trời sáng tạo,Bản,14000
+3,VĂN 10: T1,Chân trời sáng tạo,Bản,22000
+4,VĂN 10: T2,Chân trời sáng tạo,Bản,17000
+5,NGOẠI NGỮ 10 (Global Success),Bản,65000
+6,LỊCH SỬ 10,Chân trời sáng tạo,Bản,17000
+7,GDTC 10 : Bóng đá,Kết nối tri thức,Bản,12000
+8,GDQP-AN 10,Kết nối tri thức,Bản,13000
+9,LÝ 10,Chân trời sáng tạo,Bản,21000
+10,HÓA 10,Chân trời sáng tạo,Bản,18000
+11,SINH 10,Cánh diều,Bản,28000
+12,CN 10 Trồng trọt,Cánh diều,Bản,25000
+13,TOÁN 10 (chuyên đề),Chân trời sáng tạo,Bản,10000
+14,HÓA 10 (chuyên đề),Chân trời sáng tạo,Bản,11000
+15,SINH 10 (chuyên đề),Cánh diều,Bản,18000
+
+
+5. Tổ hợp 5
+STT,TÊN SÁCH,TÊN BỘ SÁCH,ĐVT,ĐƠN GIÁ
+1,TOÁN 10: T1,Chân trời sáng tạo,Bản,19000
+2,TOÁN 10: T2,Chân trời sáng tạo,Bản,14000
+3,VĂN 10: T1,Chân trời sáng tạo,Bản,22000
+4,VĂN 10: T2,Chân trời sáng tạo,Bản,17000
+5,NGOẠI NGỮ 10 (Global Success),Bản,65000
+6,LỊCH SỬ 10,Chân trời sáng tạo,Bản,17000
+7,GDTC 10 : Bóng đá,Kết nối tri thức,Bản,12000
+8,GDQP-AN 10,Kết nối tri thức,Bản,13000
+9,LÝ 10,Chân trời sáng tạo,Bản,21000
+10,ĐỊA 10,Cánh diều,Bản,26000
+11,TIN HỌC 10 (THUD),Kết nối tri thức,Bản,22000
+12,CN 10 Thiết kế và công nghệ,Kết nối tri thức,Bản,19000
+13,VĂN 10 (chuyên đề),Chân trời sáng tạo,Bản,15000
+14,SỬ 10 (chuyên đề),Chân trời sáng tạo,Bản,9000
+15,ĐỊA 10 (chuyên đề),Cánh diều,Bản,13000
+
+
+6. Tổ hợp 6
+STT,TÊN SÁCH,TÊN BỘ SÁCH,ĐVT,ĐƠN GIÁ
+1,TOÁN 10: T1,Chân trời sáng tạo,Bản,19000
+2,TOÁN 10: T2,Chân trời sáng tạo,Bản,14000
+3,VĂN 10: T1,Chân trời sáng tạo,Bản,22000
+4,VĂN 10: T2,Chân trời sáng tạo,Bản,17000
+5,NGOẠI NGỮ 10 (Global Success),Bản,65000
+6,LỊCH SỬ 10,Chân trời sáng tạo,Bản,17000
+7,GDTC 10 : Bóng chuyền,Kết nối tri thức,Bản,12000
+8,GDQP-AN 10,Kết nối tri thức,Bản,13000
+9,ĐỊA 10,Cánh diều,Bản,26000
+10,GDKT&PL 10,Chân trời sáng tạo,Bản,24000
+11,TIN HỌC 10 (THUD),Kết nối tri thức,Bản,22000
+12,CN 10 Thiết kế và công nghệ,Kết nối tri thức,Bản,19000
+13,VĂN 10 (chuyên đề),Chân trời sáng tạo,Bản,15000
+14,SỬ 10 (chuyên đề),Chân trời sáng tạo,Bản,9000
+15,ĐỊA 10 (chuyên đề),Cánh diều,Bản,13000

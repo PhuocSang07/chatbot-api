@@ -1,0 +1,21 @@
+Nguồn thông tin: https://angiang.edu.vn/tin-tuc-su-kien/tin-tuc-giao-duc/thong-bao-ket-qua-tuyen-sinh-vao-lop-10-thpt-nam-hoc-2024-2025.html
+
+Công bố thống kê và điểm chuẩn tuyển sinh 10 2024-2025:
+STT,Tên trường,Chỉ tiêu,Tổng số trúng tuyển,Điểm thi (NV1),Điểm xét (NV1),Số lượng (NV1),Điểm thi (NV2),Điểm xét (NV2),Số lượng (NV2),Tuyển thẳng,Ghi chú
+STT,Tên trường,Chỉ tiêu,Tổng số trúng tuyển,Điểm thi (NV1),Điểm xét (NV1),Số lượng (NV1),Điểm thi (NV2),Điểm xét (NV2),Số lượng (NV2),Tuyển thẳng,Ghi chú
+43,THPT Châu Văn Liêm,585,596,18.00,584,38.00,12,0,,
+44,THPT Huỳnh Thị Hưởng,495,504,13.00,496,38.00,8,0,,
+45,THPT Lương Văn Cù,360,408,36.00,380,39.00,27,1,,Tiêu chí phụ NV1-TBCN lớp 9 là 7,5 trở lên
+46,THPT Nguyễn Hữu Cảnh,675,684,20.00,681,40.00,1,2,,
+47,THPT Nguyễn Văn Hưởng,360,367,35.00,358,38.00,9,0,,
+48,THPT Ung Văn Khiêm,540,547,13.00,517,38.00,30,0,,
+49,THPT Võ Thành Trinh,495,499,13.00,444,38.00,55,0,,
+HUYỆN CHỢ MỚI,3510,3605,3460,142,3,,
+1,PTTH Sư Phạm AG,235,236,29.25,233,32.75,2,1,,
+2,THCS và THPT Mỹ Hòa Hưng,270,304,31.00,250,39.00,54,,,,
+3,THPT Long Xuyên,540,541,34.50,541,35.00,0,,,,
+4,THPT Nguyễn Công Trứ,540,546,23.25,445,26.75,101,,,,
+5,THPT Nguyễn Hiền,540,544,27.75,443,30.50,99,2,,
+THÀNH PHỐ LONG XUYÊN,2125,2171,1912,256,3,,
+
+Trong đó THPT Ung Văn Khiêm có điểm chuẩn NV1 là 13.00, NV2 là 38.00.
